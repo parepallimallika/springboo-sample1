@@ -7,5 +7,4 @@ import com.kakinada1.annavaram1.model.Person;
 
 @Repository
 public interface PersonRepository extends CrudRepository<Person, Integer>{
-
 }
